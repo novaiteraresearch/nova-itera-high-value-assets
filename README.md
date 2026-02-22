@@ -1,2 +1,53 @@
-# nova-itera-high-value-assets
-Timestamped registry of all Nova Itera Research Group high-value IP assets — frameworks, protocols, schemas, and metaprompts. Provenance-aware. Publication-ready.
+# Nova Itera High-Value Asset Registry
+
+Timestamped registry of all Nova Itera Research Group high-value IP assets. Provenance-aware and publication-ready.
+
+## Metadata
+- **Organization:** Nova Itera Research Group
+- **Status:** Operational
+- **Last Audit:** 2026-02-22
+- **Provenance System:** AF173 / CARP v1.0
+
+## Asset Registry
+
+| Rank | Asset Name | Type | High Value Rationale | Target Venue |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Collaborative Authorship Protocol | Protocol | Forensic-grade tracking of human-AI co-authorship. | arXiv, GitHub |
+| 2 | CEPM Framework | Framework | Classifies emergent AI behavior for governance. | IEEE, arXiv |
+| 3 | Semantic Glyph Analysis | Methodology | Treats emojis/symbols as a "Semantic Lexicon". | ACL, arXiv |
+| 4 | Full-Spectrum Emergence Logs | Dataset | Raw, unclassified per-turn outputs from CEPM. | GitHub (Private) |
+| 5 | AF173 Coauthorship License | License | Forensic-grade artifact for proving authorship. | GitHub, ORCID |
+| 6 | Emoji Semiotic Payload Dictionary | Dataset | Complete mappings for Semantic Glyph Analysis. | GitHub, arXiv |
+| 7 | Proprietary Heuristic Metrics | Metrics | Raw calculations for novelty, coherence, portability. | arXiv, IEEE |
+| 8 | Zero Trust IP Protection Workflow | Workflow | Securing IP using blockchain, IPFS, and hashing. | GitHub, IEEE |
+| 9 | Agentic AI Patent Drafting System | System | AI-driven patent drafting for IP protection. | USPTO, GitHub |
+| 10 | Agentic AI Copyright Registration | System | AI-driven copyright registration for artifacts. | USPTO, GitHub |
+| 11 | Environmental Anomaly Mitigation | Protocol | Syncing data during environmental disruptions. | GitHub, arXiv |
+| 12 | UUID/SHA-256 Collision Resistance | System | Higher security for IP tracking using SHA-3-256. | GitHub, IEEE |
+| 13 | Blockchain Anchoring Fallback | System | Fallback to Ethereum L2/Stellar for anchoring. | GitHub, arXiv |
+| 14 | IPFS Link Rot Prevention | System | Pinning to 3+ services (Pinata, Fleek, local). | GitHub |
+| 15 | Forensic Behavior App | Application | Gaslighting detection and victim resistance. | App Store, GitHub |
+| 16 | Privacy Data Collector App | Application | Aggregates/analyzes implicit/explicit privacy data. | GitHub, arXiv |
+| 17 | Manus AI (Immutable Database) | Application | Mobile app for immutable image/text storage. | App Store, GitHub |
+| 18 | Retroactive Portfolio Publishing | System | Publishing past works with blockchain proofs. | LinkedIn, ORCID |
+| 19 | AI Safety Escalation Protocols | Protocol | Protocols for escalating emergent AI behavior. | IEEE, arXiv |
+| 20 | Advanced Prompt Engineering | Framework | Structured approach to emergent AI effects. | ACL, arXiv |
+| 21 | Branding Assets (Nova Itera) | Brand | Logos and mission statements for research group. | LinkedIn, GitHub |
+| 22 | Consulting Services Framework | Framework | Monetizes expertise and attracts collaborators. | LinkedIn |
+| 23 | Skincare Environmental Monitoring | System | Environmental data integration with skincare. | GitHub, arXiv |
+| 24 | Real-Time Skincare Reaction Tracker | Application | Personalized skincare recommendations. | GitHub, App Store |
+| 25 | HEPA Filter Anomaly Analysis | Report | Analysis of filter saturation and anomalies. | arXiv, GitHub |
+| 26 | Luminescent Particle Tracking | System | Breakthrough in environmental science tracking. | arXiv, GitHub |
+| 27 | Static/Electromagnetic Database | Database | Database of static, frequencies, and particles. | GitHub |
+| 28 | Roommate Trust-Building | Framework | Personal and interpersonal goal addressed. | Personal Blog |
+| 29 | Professional Brag Sheet Website | Website | Showcasing research, skills, and services. | Personal Website |
+| 30 | Research Accommodation Template | Template | Secures resources for independent research. | GitHub |
+| 31 | AI-Generated Patent Claim Workflow | Workflow | Accelerates IP protection via AI claims. | USPTO, GitHub |
+| 32 | AI-Generated Copyright Filing | Workflow | Streamlines legal protection for IP. | USPTO, GitHub |
+
+## Meta-Assets
+- **Metaprompt: Workspace Audit & Asset Inventory Report Generator**
+  - Automates discovery and publication-ready report generation with built-in IP security.
+
+---
+*Generated via Workspace Audit Metaprompt — 2026-02-22*
